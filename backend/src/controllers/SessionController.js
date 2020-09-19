@@ -1,5 +1,4 @@
 const connection = require('../database/connection')
-const { create } = require('./IncidentController')
 
 module.exports = {
      
